@@ -1,0 +1,30 @@
+.inputBuscar {
+  width: 50% !important;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  height: 30px;
+}
+
+.containerInput {
+  align-items: end;
+  right: 0;
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 2px;
+  width: 100%;
+  max-width: 800px;
+}
+
+@media (max-width: 988px) {
+  .inputBuscar {
+    width: 100% !important;
+  }
+
+  .App {
+    padding: 40px 5px;
+  }
+
+  .containerInput {
+    padding-bottom: 15px;
+  }
+}

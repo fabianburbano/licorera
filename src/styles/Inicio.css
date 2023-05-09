@@ -1,0 +1,11 @@
+.inicio{
+    width: 100%;
+    margin: 0 auto;
+}
+.inicio h1{
+    font-size: 2.5rem;
+    color: darkgreen;
+}
+.inicio img{
+    width: 100%;
+}

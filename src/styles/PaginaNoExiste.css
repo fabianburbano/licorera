@@ -1,0 +1,21 @@
+.paginaNoExiste {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 13rem 1rem 1rem 1rem;
+  box-sizing: border-box;
+}
+.paginaNoExiste h1 {
+  font-size: 3rem;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: Helvetica, sans-serif;
+}
+.paginaNoExiste h2 {
+  font-size: 2rem;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: Helvetica, sans-serif;
+}

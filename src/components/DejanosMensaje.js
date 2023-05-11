@@ -6,7 +6,7 @@ export const DejanosMensaje = () => {
     <div className="dejanosMensaje">
         <h1>Dejanos tu mensaje</h1>
         <br/>
-        <textarea placeholder="Escribenos tu opinion u sugerencia"></textarea>
+        <textarea placeholder="Escribenos tu opinion o sugerencia"></textarea>
         <br/>
         <button>Enviar</button>
     </div>
